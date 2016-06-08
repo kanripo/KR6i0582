@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:23:08.652016
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:16
 #+TITLE: 佛說斷溫經
 #+PROPERTY: CBETA_ID X01n0019
 #+PROPERTY: ID KR6i0582
