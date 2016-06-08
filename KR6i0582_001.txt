@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:23:08.652016
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:16
 #+TITLE: 佛說斷溫經
 #+PROPERTY: CBETA_ID X01n0019
 #+PROPERTY: ID KR6i0582
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 01, No. 019
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0582_X_001-0403c> 
 #+PROPERTY: JUAN 1
-No.19¶
-
- 佛說斷溫經¶
+No. 19¶
+佛說斷溫經¶
 
 爾時佛在王舍城中。與諸大眾俱會。阿難長脆合掌。¶
 白佛言。世尊。彼南閻浮提世界。忽遇天行溫氣瘴烈。¶
@@ -29,6 +28,6 @@ No.19¶
 佉尸鬼。阿伽那鬼。波羅尼鬼。阿毗羅鬼。婆提梨鬼也。¶
 汝等當知。此神名思念。速疾遠離。不敢侵害。其人所¶
 被毒氣普皆消散。得金剛密迹。其身安樂。無諸患難。¶
-佛說是經已。天龍八部。一切大眾。皆大歡喜。信受奉¶
+佛說是經巳。天龍八部。一切大眾。皆大歡喜。信受奉¶
 行。¶
 佛說斷溫經
